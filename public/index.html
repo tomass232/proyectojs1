@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inicio de Sesión</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+    <div class="login-container" id="loginContainer">
+        <h2>Inicio de Sesión</h2>
+        <form id="inicioSesion">
+            <input type="text" id="nombreUsuario" placeholder="Nombre de Usuario" required>
+            <input type="password" id="password" placeholder="Contraseña" required>
+            <button type="submit" id="btIniciarSesion">Ingresar</button>
+        </form>
+        <p id="login-error" class="mensajeError"></p>
+    </div>
+
+    <div class="welcome-container" id="welcomeContainer" style="display: none;">
+        <h2>Bienvenido(a) <span id="usuarioNombre"></span></h2>
+        <button id="cerrarSesion">Cerrar Sesión</button>
+    </div>
+
+    <script type="module" src="index.js"></script>
+</body>
+</html>

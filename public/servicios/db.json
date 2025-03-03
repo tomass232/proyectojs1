@@ -1,0 +1,87 @@
+{
+  "usuarios": [
+    {
+      "id": "0",
+      "nombreUsuario": "Tomás",
+      "claveUsuario": "maripaz",
+      "rolUsuario": "admin"
+    },
+    {
+      "id": "1",
+      "nombreUsuario": "dili",
+      "claveUsuario": "dili",
+      "rolUsuario": "estudiante"
+    },
+    {
+      "id": "2",
+      "nombreUsuario": "Maripaz",
+      "claveUsuario": "tomas",
+      "rolUsuario": "estudiante"
+    }
+  ],
+  "consultas": [
+    {
+      "id": "91fb",
+      "nombreUsuario": "Mari",
+      "descripcionConsulta": "PENE",
+      "horaConsulta": "10:39:9:834",
+      "diaConsulta": "28/1/2025"
+    },
+    {
+      "id": "9ba7",
+      "nombreUsuario": "Mari",
+      "descripcionConsulta": "PENE",
+      "horaConsulta": "10:39:9:834",
+      "diaConsulta": "28/1/2025"
+    },
+    {
+      "id": "d37e",
+      "nombreUsuario": "Mari",
+      "descripcionConsulta": "dedos",
+      "horaConsulta": "10:12:36:782",
+      "diaConsulta": "3/2/2025"
+    },
+    {
+      "id": "2473",
+      "nombreUsuario": "Maripaz",
+      "descripcionConsulta": "pito",
+      "horaConsulta": "10:48:28:180",
+      "diaConsulta": "3/2/2025"
+    },
+    {
+      "id": "8cac",
+      "nombreUsuario": "Maripaz",
+      "descripcionConsulta": "pito",
+      "horaConsulta": "10:48:28:180",
+      "diaConsulta": "3/2/2025"
+    },
+    {
+      "id": "4d01",
+      "nombreUsuario": "Maripaz",
+      "descripcionConsulta": "pito",
+      "horaConsulta": "10:48:28:180",
+      "diaConsulta": "3/2/2025"
+    },
+    {
+      "id": "3f35",
+      "nombreUsuario": "Maripaz",
+      "descripcionConsulta": "sexo",
+      "horaConsulta": "10:59:56:207",
+      "diaConsulta": "3/2/2025"
+    }
+  ],
+  "respuestas": [
+    {
+      "id": "97b5",
+      "pregunta": "sexo",
+      "respuesta": "1234",
+      "horaRespuesta": "11:46:41:548"
+    },
+    {
+      "id": "5353",
+      "pregunta": "PENE",
+      "respuesta": "VAGINA",
+      "horaRespuesta": "12:10:1:310"
+    }
+  ]
+}
